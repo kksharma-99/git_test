@@ -2,3 +2,5 @@ Select 1 from tables
 Select * from table1;
 Select * from table2;
 Select * from table3;
+Select * from table4
+Select * from table5
